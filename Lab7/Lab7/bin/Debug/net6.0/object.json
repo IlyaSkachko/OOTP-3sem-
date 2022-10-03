@@ -1,0 +1,1 @@
+<ArrayOfPassengerAviation xmlns="http://schemas.datacontract.org/2004/07/Lab4" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><PassengerAviation><Capacity>93</Capacity><ID>59941933</ID><Name>TU-123</Name></PassengerAviation></ArrayOfPassengerAviation>
