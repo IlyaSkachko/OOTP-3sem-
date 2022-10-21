@@ -13,6 +13,7 @@ namespace Lab7
             {
                 Set<string> set = new Set<string>();
 
+
                 set.Add("MOfnre");
                 set.Add(" fgb");
                 set.Add("rnre");
@@ -24,6 +25,7 @@ namespace Lab7
                 set.Show();
 
 
+
                 var set2 = new Set<PassengerAviation>();
 
 
@@ -33,7 +35,7 @@ namespace Lab7
                 set2.Add(pas2);
 
 
-                set2.Show();
+                set2.Show();    
 
                 Serialization<PassengerAviation>.WriteJson(set2);
 
@@ -48,6 +50,10 @@ namespace Lab7
             catch (Exception ex)
             {
                 Console.WriteLine($"Ошибочка вышла...\n\n {ex.Message}");
+            }
+            finally
+            {
+                Console.WriteLine("The end");
             }
         }
     }

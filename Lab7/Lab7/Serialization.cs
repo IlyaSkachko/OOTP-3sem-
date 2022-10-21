@@ -13,7 +13,7 @@ namespace Lab7
         {
             var jsonFormatter = new DataContractJsonSerializer(typeof(Set<PassengerAviation>));
 
-            using (var file = new FileStream(@"C:\UNIVER\OOTP\Lab7\Lab7\object.json", FileMode.OpenOrCreate))
+            using (var file = new FileStream(@"C:\UNIVER\OOTP\Lab7\Lab7\object.json", FileMode.Create))
             {
                 jsonFormatter.WriteObject(file, set);
             }
@@ -25,7 +25,7 @@ namespace Lab7
 
             var set = new Set<PassengerAviation>();
 
-            using (var file = new FileStream(@"C:\UNIVER\OOTP\Lab7\Lab7\object.json", FileMode.OpenOrCreate))
+            using (var file = new FileStream(@"C:\UNIVER\OOTP\Lab7\Lab7\object.json", FileMode.Open))
             {
                 set = jsonFormatter.ReadObject(file) as Set<PassengerAviation>;
 

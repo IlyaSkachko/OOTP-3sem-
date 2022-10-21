@@ -1,11 +1,7 @@
 ﻿// Посчитать общую вместимость и грузоподъемность. Провести сортировку самолетов компании по дальности
 //полета.Найти самолет в компании, соответствующий заданному диапазону параметров потребления горючего.
 using Lab4;
-using System.Diagnostics;
-using System.Net;
 using System.Runtime.Serialization.Json;
-using System.Text;
-using System.Text.Json;
 
 namespace Lab5
 {
@@ -15,7 +11,7 @@ namespace Lab5
         public static int TotalCapacity { get; private set; }
         public static int CargoTotalCapacity { get; private set; }
         
-        public static Transport FuelTransport { get; }
+        public static Transport? FuelTransport { get; }
 
 
         public static void CoutingTotalCapacity(ref AviaCompany aviacompany)

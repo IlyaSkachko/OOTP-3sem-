@@ -11,6 +11,7 @@ namespace Lab7
 
         public int Count { get { return _list.Count; } }
 
+        
         private T[] arr;
 
         public T[] Arr { get { return arr; } }

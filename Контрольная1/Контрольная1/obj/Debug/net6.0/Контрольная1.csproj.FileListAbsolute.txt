@@ -1,0 +1,15 @@
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\bin\Debug\net6.0\Контрольная1.exe
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\bin\Debug\net6.0\Контрольная1.deps.json
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\bin\Debug\net6.0\Контрольная1.runtimeconfig.json
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\bin\Debug\net6.0\Контрольная1.dll
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\bin\Debug\net6.0\Контрольная1.pdb
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\obj\Debug\net6.0\Контрольная1.csproj.AssemblyReference.cache
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\obj\Debug\net6.0\Контрольная1.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\obj\Debug\net6.0\Контрольная1.AssemblyInfoInputs.cache
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\obj\Debug\net6.0\Контрольная1.AssemblyInfo.cs
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\obj\Debug\net6.0\Контрольная1.csproj.CoreCompileInputs.cache
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\obj\Debug\net6.0\Контрольная1.dll
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\obj\Debug\net6.0\refint\Контрольная1.dll
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\obj\Debug\net6.0\Контрольная1.pdb
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\obj\Debug\net6.0\Контрольная1.genruntimeconfig.cache
+C:\UNIVER\OOTP\Контрольная1\Контрольная1\obj\Debug\net6.0\ref\Контрольная1.dll

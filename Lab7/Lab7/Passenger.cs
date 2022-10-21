@@ -9,7 +9,7 @@ namespace Lab4
     public class PassengerAviation
     {
         [DataMember]
-        public string Type { get { return "Пассажирский"; } set { Type = value; } }
+        public string Type { get; set; }
 
         [DataMember]
         public int Capacity { get; set;  }
@@ -32,6 +32,7 @@ namespace Lab4
                 throw new Exception("Ошибка");
             }
             ID = base.GetHashCode();
+            Type = "Пассажирский";
         }
 
         public void Boarding()
