@@ -1,0 +1,22 @@
+Подкаталоги:
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Intel
+C:\MSOCache
+C:\OneDriveTemp
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\System Volume Information
+C:\UNIVER
+C:\Users
+C:\Windows
+Файлы:
+C:\AVScanner.ini
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\swapfile.sys

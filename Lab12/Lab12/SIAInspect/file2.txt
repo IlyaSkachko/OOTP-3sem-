@@ -1,0 +1,70 @@
+Работа класса "SIADirInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 17.10.2022 13:42:31
+
+Работа класса "SIADiskInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 14:49:37
+
+Работа класса "SIADiskInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 15:53:20
+
+Работа класса "SIAFileInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 15:53:20
+
+Работа класса "SIADirInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 15:53:20
+
+Работа класса "SIADiskInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 15:56:10
+
+Работа класса "SIAFileInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 15:56:10
+
+Работа класса "SIADirInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 15:56:10
+
+Работа класса "SIADiskInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 15:56:22
+
+Работа класса "SIAFileInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 15:56:22
+
+Работа класса "SIADirInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 15:56:22
+
+Работа класса "SIADiskInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 15:59:15
+
+Работа класса "SIAFileInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 15:59:15
+
+Работа класса "SIADirInfo"
+Имя Файла: sialogfile.txt
+Путь: C:\UNIVER\OOTP\Lab12\Lab12\sialogfile.txt
+Дата: 20.10.2022 15:59:15
+
