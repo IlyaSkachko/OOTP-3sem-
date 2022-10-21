@@ -1,0 +1,6 @@
+Assembly name: Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+isPublicConstructor: True
+Methods: get_Age	get_Name	Show	A	ToString	Clone	GetType	Equals	GetHashCode	
+Fields: type	name	age	
+Properties: Age	Name	
+Interfaces: ICloneable	
