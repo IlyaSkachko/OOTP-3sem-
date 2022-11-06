@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCargo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Cargo>
+		<Capacity>73</Capacity>
+		<Name>Boing</Name>
+		<ID>3040</ID>
+	</Cargo>
+	<Cargo>
+		<Capacity>80</Capacity>
+		<Name>Boing</Name>
+		<ID>8026</ID>
+	</Cargo>
+	<Cargo>
+		<Capacity>85</Capacity>
+		<Name>Boing</Name>
+		<ID>5495</ID>
+	</Cargo>
+	<Cargo>
+		<Capacity>30</Capacity>
+		<Name>Boing</Name>
+		<ID>12065</ID>
+	</Cargo>
+	<Cargo>
+		<Capacity>85</Capacity>
+		<Name>Boing</Name>
+		<ID>10180</ID>
+	</Cargo>
+</ArrayOfCargo>

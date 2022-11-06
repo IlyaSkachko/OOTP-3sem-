@@ -1,0 +1,46 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Lab4.Cargo%2C%20Lab13%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D6.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-2" />
+      <_size>5</_size>
+      <_version>5</_version>
+    </a1:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <SOAP-ENC:Array id="ref-2" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Lab4/Lab13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a2:Cargo[8]">
+      <item href="#ref-3" />
+      <item href="#ref-4" />
+      <item href="#ref-5" />
+      <item href="#ref-6" />
+      <item href="#ref-7" />
+    </SOAP-ENC:Array>
+    <a2:Cargo id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Lab4/Lab13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Capacity_x003E_k__BackingField>87</_x003C_Capacity_x003E_k__BackingField>
+      <_x003C_Name_x003E_k__BackingField id="ref-8">Boing</_x003C_Name_x003E_k__BackingField>
+      <_x003C_ID_x003E_k__BackingField>1544</_x003C_ID_x003E_k__BackingField>
+      <Aviation_x002B__x003C_Name_x003E_k__BackingField xsi:null="1" />
+    </a2:Cargo>
+    <a2:Cargo id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Lab4/Lab13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Capacity_x003E_k__BackingField>96</_x003C_Capacity_x003E_k__BackingField>
+      <_x003C_Name_x003E_k__BackingField href="#ref-8" />
+      <_x003C_ID_x003E_k__BackingField>3605</_x003C_ID_x003E_k__BackingField>
+      <Aviation_x002B__x003C_Name_x003E_k__BackingField xsi:null="1" />
+    </a2:Cargo>
+    <a2:Cargo id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Lab4/Lab13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Capacity_x003E_k__BackingField>43</_x003C_Capacity_x003E_k__BackingField>
+      <_x003C_Name_x003E_k__BackingField href="#ref-8" />
+      <_x003C_ID_x003E_k__BackingField>10150</_x003C_ID_x003E_k__BackingField>
+      <Aviation_x002B__x003C_Name_x003E_k__BackingField xsi:null="1" />
+    </a2:Cargo>
+    <a2:Cargo id="ref-6" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Lab4/Lab13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Capacity_x003E_k__BackingField>91</_x003C_Capacity_x003E_k__BackingField>
+      <_x003C_Name_x003E_k__BackingField href="#ref-8" />
+      <_x003C_ID_x003E_k__BackingField>882</_x003C_ID_x003E_k__BackingField>
+      <Aviation_x002B__x003C_Name_x003E_k__BackingField xsi:null="1" />
+    </a2:Cargo>
+    <a2:Cargo id="ref-7" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Lab4/Lab13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Capacity_x003E_k__BackingField>49</_x003C_Capacity_x003E_k__BackingField>
+      <_x003C_Name_x003E_k__BackingField href="#ref-8" />
+      <_x003C_ID_x003E_k__BackingField>12146</_x003C_ID_x003E_k__BackingField>
+      <Aviation_x002B__x003C_Name_x003E_k__BackingField xsi:null="1" />
+    </a2:Cargo>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>>
